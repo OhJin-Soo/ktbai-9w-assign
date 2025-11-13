@@ -1,0 +1,47 @@
+단어명	설명
+FastAPI	fast한 api
+pyproject.toml	dependency 파일
+Gunicorn	uvicorn들을 동시에 실행하게 만드는 main branch
+HTTP Message	CS 간 통신에 사용되는 메시지 
+HTTP Request Method	요청 메소드
+HTTP Status Code	상태 코드
+HTTP URL	url
+Query string	쿼리 문자열
+Path Variable	경로 변수
+JSON	키-밸류 쌍의 문자열
+REST API	api 규약
+디자인패턴	실무팁
+Database	웹서버 측의 물류창고
+SQL	sql
+데이터 정의어	ddl
+데이터 조작어	dml
+데이터 제어어	dcl
+JOIN	join
+정규화	정규화
+암호화	암호화
+bcrypt	비밀번호와 같은 민감한 정보를 안전하게 저장하는 해시함수
+stateful	서버가 클라이언트 상태를 보존함
+stateless	서버가 클라이언트 서버를 보존하지 않음
+connectionless	연결안된 상태
+인증·인가	인증은 들어갈때 치는것,인가는 부여된 권한
+쿠키	사용자의 인증정보(ex로그인)
+세션	컴퓨터 프로세스들 사이, 데이터 송수신을 마칠 때까지의 기간
+프레임워크	프레임워크
+라이브러리	라이브러리
+API	api
+페이징	데이터를 페이지 단위로 나누기
+HTTPS	http에 보안을 더한 것
+log	로그
+HTML	html
+CSS	웹 페이지의 스타일 시트 언어
+Boxmodel	html을 box로 표현한것
+Flex	웹페이지의 레이아웃 모델
+Grid	웹페이지의 격자 레이아웃
+DOM	html코드가 브러우저에 의해 파싱되어 매모리상에 객체로 구성되어 동작되는 코드
+CSSOM	브라우저가 css를 해석해 웹페이지의 스타일을 조작하기 위해 사용하는 객체 모델
+Event	사용자가 웹 페이지에서 수행하는 동작
+Fetch	컴퓨터가 무엇을 해야 할지 알려주는 지시를 읽고, 그 지시에 따라 필요한 정보를 찾아 실행하는 첫 단계
+Lottie	json 기반의 애니메이션 파일
+디버깅 (Debugging)	디버깅
+Search Engin Optimization	찾기 엔진 최적화
+Search Engine	찾기 엔진
